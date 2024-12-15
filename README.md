@@ -54,10 +54,15 @@ pip install -r requirements.txt
 
 ## Directory Structure
 ├── app.py                    # Main application code
+
 ├── datasp500_companies.csv   # List of S&P 500 companies and their details
+
 ├── sp500_index.csv           # S&P 500 index data
+
 ├── sp500_stocks.csv          # Historical data for S&P 500 stocks
+
 ├── README.md                 # Project documentation
+
 ├── requirements.txt          # Python dependencies
 
 ## Contributing

@@ -1,8 +1,8 @@
-Portfolio Analysis App
-Overview
-This web application allows users to analyze and manage a portfolio of stocks. The app leverages data from the S&P 500 index and individual S&P 500 stocks to compute portfolio performance, including returns, volatility, Sharpe ratio, and correlations. The user can select stocks, assign weights to each, and track the portfolio's historical performance against the benchmark index.
+##Portfolio Analysis App
+#Overview
+- This web application allows users to analyze and manage a portfolio of stocks. The app leverages data from the S&P 500 index and individual S&P 500 stocks to compute portfolio performance, including returns, volatility, Sharpe ratio, and correlations. The user can select stocks, assign weights to each, and track the portfolio's historical performance against the benchmark index.
 
-Features
+##Features
 Stock Selection: Users can choose from a list of S&P 500 stocks to add to their portfolio.
 Portfolio Weighting: Allocate weights to selected stocks, with the option to adjust individual stock weights.
 Performance Tracking: View the historical performance of the selected portfolio and compare it against the S&P 500 index.
